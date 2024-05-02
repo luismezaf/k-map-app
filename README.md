@@ -6,6 +6,6 @@ It includes management features for
 - Addresses
 - Tasks
 - Zones
-- Users.
+- Users
 
 It's not connected to any server; all data is stored in your browser.
